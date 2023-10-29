@@ -10,3 +10,4 @@ For other Quake II players out there, make sure to add the maps into the suggest
 * Map Name 
 * Screen Shot or Video Clip of the map
 
+This Repository is made by Chuma as part of USDQC
